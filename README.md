@@ -20,11 +20,12 @@ A clean, responsive React budget tracking application that helps users manage ex
 
 ## 🌐 Live Demo
 
-👉 https://YOUR-VERCEL-LINK-HERE
+👉 https://budget-app-rho-lilac.vercel.app
 
 ## 📷 Preview
 
-_Add a screenshot of your app here_
+<img width="1919" height="943" alt="image" src="https://github.com/user-attachments/assets/f9961eec-8bc0-40ce-bf34-4d7f1797f494" />
+
 
 ## 📦 How to Run Locally
 
